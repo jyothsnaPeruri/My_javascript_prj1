@@ -1,9 +1,9 @@
-let a=10;
-var b=5;
+let A=10;
+var B=5;
 if(a>b){
-    console.log('a value is grater than b');
+    console.log('A value is grater than B');
 }
 else{
-    console.log('a is smaller than b');
+    console.log('A is smaller than B');
 }
 
