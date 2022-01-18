@@ -1,5 +1,5 @@
-let A=10;
-var B=5;
+let A=30;
+var B=50;
 if(a>b){
     console.log('A value is grater than B');
 }
