@@ -1,6 +1,6 @@
 let A=30;
 var B=50;
-if(a>b){
+if(A>B){
     console.log('A value is grater than B');
 }
 else{
